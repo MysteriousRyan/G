@@ -1,8 +1,8 @@
 {
   "Events": [
     {
-      "StartTime": "2025-06-13 19:00:00Z",
-      "EndTime": "2025-06-15 19:00:00Z",
+      "StartTime": "2025-06-09 00:00:00Z",
+      "EndTime": "2025-09-30 00:00:00Z",
       "Title": "WELCOME TO GEARS OF WAR: RELOADED",
       "MessageBeforeOpen": "Thank you for pre-ordering\nGears of War: Reloaded.\nThe Multiplayer Beta is not live yet. Come back on June 13th at 12PM PT/(GMT-7) to play.",
       "ImagePre": "https://pender-prod.cdn.gearsofwar.net/pender-ctt-prod/images/MOTD_KeyArt.png",
@@ -52,8 +52,8 @@
       }
     },
     {
-      "StartTime": "2025-06-20 19:00:00Z",
-      "EndTime": "2025-06-22 19:00:00Z",
+      "StartTime": "2025-06-09 00:00:00Z",
+      "EndTime": "2025-09-30 00:00:00Z",
       "Title": "WELCOME TO GEARS OF WAR: RELOADED",
       "MessageBeforeOpen": "The Multiplayer Beta is currently offline. Come back on June 20th at 12PM PT/(GMT-7) to play Versus on three additional maps.",
       "MessageAfterClose": "Thanks for playing in the Multiplayer Beta. The Beta is now closed. Gears of War: Reloaded launches on August 26, 2025. Head to GearsofWar.com for the latest.",

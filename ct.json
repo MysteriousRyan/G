@@ -1,11 +1,11 @@
 {
   "Events": [
     {
-      "StartTime": "2025-06-11 00:00:00Z",
-      "EndTime": "2025-12-30 19:00:00Z",
-      "Title": "WELCOME TO CUCKS OF WAR: RELOADED",
-      "MessageBeforeOpen": "Thank you for Fucking\nCucks of War: Reloaded.\nThe Multiplayer CUCK is not live yet. Come back on June 11th to play as the Cuck.",
-      "ImagePre": "https://i.imgur.com/SIpsuwU.jpeg",
+      "StartTime": "2025-06-09 19:00:00Z",
+      "EndTime": "2025-09-30 19:00:00Z",
+      "Title": "WELCOME TO GEARS OF WAR: RELOADED",
+      "MessageBeforeOpen": "Thank you for pre-ordering\nGears of War: Reloaded.\nThe Multiplayer Beta is not live yet. Come back on June 13th at 12PM PT/(GMT-7) to play.",
+      "ImagePre": "https://pender-prod.cdn.gearsofwar.net/pender-ctt-prod/images/MOTD_KeyArt.png",
       "chi": {
         "Title": "歡迎來到 Gears of War: Reloaded",
         "MessageBeforeOpen": "感謝您預購 \nGears of War: Reloaded。\nT多人遊戲 Beta 測試尚未上線。請於 6 月 13 日中午 12 點 (PT)/(GMT-7) 回來遊玩。"
@@ -53,7 +53,7 @@
     },
     {
       "StartTime": "2025-06-10 00:00:00Z",
-      "EndTime": "2025-06-25 19:00:00Z",
+      "EndTime": "2025-09-30 00:00:00Z",
       "Title": "WELCOME TO GEARS OF WAR: RELOADED",
       "MessageBeforeOpen": "The Multiplayer Beta is currently offline. Come back on June 20th at 12PM PT/(GMT-7) to play Versus on three additional maps.",
       "MessageAfterClose": "Thanks for playing in the Multiplayer Beta. The Beta is now closed. Gears of War: Reloaded launches on August 26, 2025. Head to GearsofWar.com for the latest.",

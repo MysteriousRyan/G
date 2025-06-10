@@ -1,0 +1,119 @@
+{
+  "Events": [
+    {
+      "StartTime": "2025-06-13 19:00:00Z",
+      "EndTime": "2025-06-15 19:00:00Z",
+      "Title": "WELCOME TO GEARS OF WAR: RELOADED",
+      "MessageBeforeOpen": "Thank you for pre-ordering\nGears of War: Reloaded.\nThe Multiplayer Beta is not live yet. Come back on June 13th at 12PM PT/(GMT-7) to play.",
+      "ImagePre": "https://pender-prod.cdn.gearsofwar.net/pender-ctt-prod/images/MOTD_KeyArt.png",
+      "chi": {
+        "Title": "歡迎來到 Gears of War: Reloaded",
+        "MessageBeforeOpen": "感謝您預購 \nGears of War: Reloaded。\nT多人遊戲 Beta 測試尚未上線。請於 6 月 13 日中午 12 點 (PT)/(GMT-7) 回來遊玩。"
+      },
+      "deu": {
+        "Title": "WILLKOMMEN BEI GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Vielen Dank für die Vorbestellung von \nGears of War: Reloaded.\nDie Mehrspieler-Beta ist noch nicht verfügbar. Kommen Sie am 13. Juni um 21:00 Uhr MESZ (12:00 Uhr PDT) wieder, um zu spielen."
+      },
+      "esm": {
+        "Title": "TE DAMOS LA BIENVENIDA A GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Gracias por reservar\nGears of War: Reloaded.\nEl modo multijugador Beta no está disponible todavía. Regresa el 13 de junio a las 12:00 p.m. hora del Pacífico para jugar."
+      },
+      "esn": {
+        "Title": "TE DAMOS LA BIENVENIDA A GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Gracias por reservar\nGears of War: Reloaded.\nLa beta multijugador aún no está disponible, así que vuelve el 13 de junio a las 21:00 CEST para probarla."
+      },
+      "fra": {
+        "Title": "BIENVENUE DANS GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Merci d'avoir précommandé\nGears of War: Reloaded.\nLa version bêta multijoueur n'est pas encore disponible. Revenez le 13 juin à 21 h CEST pour jouer."
+      },
+      "ita": {
+        "Title": "TI DIAMO IL BENVENUTO IN GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Grazie per aver preordinato\nGears of War: Reloaded.\nLa Beta del multiplayer non è ancora disponibile. Torna alle 21:00 CEST del 13 giugno per giocare."
+      },
+      "kor": {
+        "Title": "GEARS OF WAR: RELOADED에 오신 것을 환영합니다",
+        "MessageBeforeOpen": "Gears of War: Reloaded를\n예약 구매해 주셔서 감사합니다.\n멀티 플레이 베타는 아직 출시되지 않았습니다.월 13일 오후 12시(태평양 표준시/GMT-7 기준)에 다시 접속하여 플레이하세요. "
+      },
+      "jpn": {
+        "Title": "GEARS OF WAR: RELOADED へようこそ",
+        "MessageBeforeOpen": "Gears of War: Reloaded\nを予約購入いただきありがとうございます。マルチプレイヤー ベータはまだ開始されていません。太平洋標準時 6 月 13 日午後 12 時 (GMT-7) 以降にご参加ください"
+      },
+      "pol": {
+        "Title": "WITAMY W GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Dziękujemy za zamówienie w przedsprzedaży gry \nGears of War: Reloaded.\nWersja beta gry wieloosobowej nie jest jeszcze dostępna. Wróć 13 czerwca o godz. 12:00 czasu GMT-7, aby zagrać."
+      },
+      "ptb": {
+        "Title": "BOAS-VINDAS AO GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Agradecemos por fazer a pré-encomenda de\nGears of War: Reloaded.\nO Beta Multijogador ainda não está online. Volte no dia 13 de junho às 16h BRT para jogar."
+      },
+      "rus": {
+        "Title": "ПРИВЕТСТВУЕМ В GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Благодарим за предзаказ\nGears of War: Reloaded.\nБета-версия многопользовательской игры еще не запущена. Она будет доступна 13 июня в 22:00 МСК (19:00 GMT)."
+      }
+    },
+    {
+      "StartTime": "2025-06-20 19:00:00Z",
+      "EndTime": "2025-06-22 19:00:00Z",
+      "Title": "WELCOME TO GEARS OF WAR: RELOADED",
+      "MessageBeforeOpen": "The Multiplayer Beta is currently offline. Come back on June 20th at 12PM PT/(GMT-7) to play Versus on three additional maps.",
+      "MessageAfterClose": "Thanks for playing in the Multiplayer Beta. The Beta is now closed. Gears of War: Reloaded launches on August 26, 2025. Head to GearsofWar.com for the latest.",
+      "ImagePre": "https://pender-prod.cdn.gearsofwar.net/pender-ctt-prod/images/MOTD_KeyArt.png",
+      "ImagePost": "https://pender-prod.cdn.gearsofwar.net/pender-ctt-prod/images/MOTD_KeyArt.png",
+      "chi": {
+        "Title": "歡迎來到 Gears of War: Reloaded",
+        "MessageBeforeOpen": "多人 Beta 測試目前離線中。請於 6 月 20 日下午 12 點 (PT)/(GMT-7) 回來，在三張額外地圖上遊玩對戰模式。",
+        "MessageAfterClose": "感謝您參與多人遊戲 Beta 測試。Beta 測試現已結束。Gears of War: Reloaded 將於 2025 年 8 月 26 日推出，請前往 GearsofWar.com 瞭解最新資訊。"
+      },
+      "deu": {
+        "Title": "WILLKOMMEN BEI GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Die Mehrspieler-Beta ist derzeit offline. Schauen Sie am 20. Juni um 21:00 Uhr MESZ (12:00 PDT/GMT-7) wieder vorbei, um Versus auf drei zusätzlichen Karten zu spielen.",
+        "MessageAfterClose": "Vielen Dank fürs Mitmachen bei der Mehrspieler-Beta. Die Beta ist jetzt geschlossen. Gears of War: Reloaded erscheint am 26. August 2025. Die neuesten Informationen finden Sie auf GearsofWar.com."
+      },
+      "esm": {
+        "Title": "TE DAMOS LA BIENVENIDA A GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "El modo multijugador Beta está fuera de línea en este momento. Vuelve el 20 de junio a las 12:00 p.m., hora del Pacífico, para jugar Enfrentamientos en tres mapas adicionales.",
+        "MessageAfterClose": "Gracias por jugar en el modo multijugador Beta. La versión Beta ahora está cerrada. Gears of War: Reloaded se publicará el 26 de agosto de 2025. Ve a GearsofWar.com para enterarte de las novedades."
+      },
+      "esn": {
+        "Title": "TE DAMOS LA BIENVENIDA A GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "La beta multijugador todavía no está disponible, así que vuelve a pasarte el 20 de junio a las 21:00 CEST para poder jugar al modo Enfrentamiento en 3 mapas adicionales.",
+        "MessageAfterClose": "Gracias por jugar a la beta multijugador. A partir de ahora, ya no estará disponible. Gears of War: Reloaded saldrá el 26 de agosto de 2025. Accede a GearsofWar.com para enterarte de cualquier novedad."
+      },
+      "fra": {
+        "Title": "BIENVENUE DANS GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "La bêta multijoueur est actuellement hors ligne. Revenez à partir du 20 juin à 21 h CEST pour jouer en Bataille sur trois cartes supplémentaires.",
+        "MessageAfterClose": "Merci d'avoir joué à la bêta multijoueur. La bêta est désormais terminée. Gears of War: Reloaded sortira le 26 août 2025. Rendez-vous sur GearsofWar.com pour les dernières actualités."
+      },
+      "ita": {
+        "Title": "TI DIAMO IL BENVENUTO IN GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Al momento la Beta del multiplayer è offline. Torna il 20 giugno alle 21:00 CEST per giocare partite Versus in tre mappe aggiuntive.",
+        "MessageAfterClose": "La Beta del multiplayer è terminata. Grazie per aver giocato! Gears of War: Reloaded sarà disponibile dal 26 agosto 2025. Vai su GearsofWar.com per le ultime novità."
+      },
+      "kor": {
+        "Title": "GEARS OF WAR: RELOADED에 오신 것을 환영합니다",
+        "MessageBeforeOpen": "멀티 플레이 베타는 현재 오프라인 상태입니다. 6월 20일 오후 12시(태평양 표준시/GMT-7 기준)에 다시 접속하여, 추가된 세 가지 맵에서 대결 모드를 플레이하세요.",
+        "MessageAfterClose": "멀티 플레이 베타를 플레이해 주셔서 감사합니다. 이제 베타 플레이는 종료되었습니다. Gears of War: Reloaded는 2025년 8월 26일 출시됩니다. 최신 소식은 GearsofWar.com에서 확인하세요."
+      },
+      "jpn": {
+        "Title": "GEARS OF WAR: RELOADED へようこそ",
+        "MessageBeforeOpen": "マルチプレイヤー ベータは現在オフラインです。太平洋標準時 6 月 20 日午後 12 時 (GMT-7) 以降、追加の 3 マップで対戦モードがプレイできます",
+        "MessageAfterClose": "マルチプレイヤー ベータに参加いただきありがとうございます。ベータ版は終了しました。Gears of War: Reloaded は 2025 年 8 月 26 日に発売されます。最新情報は GearsofWar.com をご覧ください"
+      },
+      "pol": {
+        "Title": "WITAMY W GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Wersja beta gry wieloosobowej jest obecnie offline. Wróć 20 czerwca o godz. 12:00 czasu GMT-7, aby zagrać w trybie Kontra na trzech dodatkowych mapach.",
+        "MessageAfterClose": "Dziękujemy za udział w wersji beta gry wieloosobowej. Wersja beta jest już zamknięta. Gra Gears of War: Reloaded zadebiutuje 26 sierpnia 2025 roku. Najnowsze informacje można znaleźć na stronie GearsofWar.com."
+      },
+      "ptb": {
+        "Title": "BOAS-VINDAS AO GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "O Beta Multijogador está offline no momento. Volte no dia 20 de junho às 16h BRT para jogar Versus em três mapas adicionais.",
+        "MessageAfterClose": "Agradecemos por jogar o Beta Multijogador. O Beta foi encerrado. Gears of War: Reloaded será lançado em 26 de agosto de 2025. Acesse GearsofWar.com para ficar por dentro das últimas novidades."
+      },
+      "rus": {
+        "Title": "ПРИВЕТСТВУЕМ В GEARS OF WAR: RELOADED",
+        "MessageBeforeOpen": "Бета-версия многопользовательской игры недоступна. Возвращайтесь 20 июня в 22:00 МСК (19:00 GMT) и играйте в режиме «Противостояние» на трех дополнительных картах.",
+        "MessageAfterClose": "Благодарим за тестирование бета-версии многопользовательской игры. Тестирование завершено. Gears of War: Reloaded выйдет 26 августа 2025 г. Последние новости можно узнать на сайте GearsofWar.com."
+      }
+    }
+  ]
+}

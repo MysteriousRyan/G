@@ -1,7 +1,7 @@
 {
   "Events": [
     {
-      "StartTime": "2025-06-14 19:00:00Z",
+      "StartTime": "2025-06-09 19:00:00Z",
       "EndTime": "2025-09-30 19:00:00Z",
       "Title": "YOU NEED UPDATED .INI",
       "MessageBeforeOpen": "Thank you for playing the early\nGears of War: Reloaded BETA.\nYOU NEED TO UPDATE THE .INI FILE AS SERVERS UPDATED",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "StartTime": "2025-06-10 00:00:00Z",
+      "StartTime": "2025-06-09 00:00:00Z",
       "EndTime": "2025-09-30 00:00:00Z",
       "Title": "WELCOME TO GEARS OF WAR: RELOADED",
       "MessageBeforeOpen": "The Multiplayer Beta is currently offline. Come back on June 20th at 12PM PT/(GMT-7) to play Versus on three additional maps.",

@@ -1,10 +1,10 @@
 {
   "Events": [
     {
-      "StartTime": "2025-06-09 00:00:00Z",
+      "StartTime": "2025-06-14 00:00:00Z",
       "EndTime": "2025-09-30 00:00:00Z",
-      "Title": "WELCOME TO GEARS OF WAR: RELOADED",
-      "MessageBeforeOpen": "Thank you for pre-ordering\nGears of War: Reloaded.\nThe Multiplayer Beta is not live yet. Come back on June 13th at 12PM PT/(GMT-7) to play.",
+      "Title": "YOU NEED UPDATED .INI",
+      "MessageBeforeOpen": "Thank you for playing the early\nGears of War: Reloaded BETA.\nYOU NEED TO UPDATE THE .INI FILE AS SERVERS UPDATED",
       "ImagePre": "https://pender-prod.cdn.gearsofwar.net/pender-ctt-prod/images/MOTD_KeyArt.png",
       "chi": {
         "Title": "歡迎來到 Gears of War: Reloaded",

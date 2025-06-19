@@ -1,10 +1,10 @@
 {
   "Events": [
     {
-      "StartTime": "2025-06-09 19:00:00Z",
-      "EndTime": "2025-09-30 19:00:00Z",
+      "StartTime": "2025-06-04 00:00:00Z",
+      "EndTime": "2025-06-30 00:00:00Z",
       "Title": "YOU NEED UPDATED .INI",
-      "MessageBeforeOpen": "Thank you for playing the early\nGears of War: Reloaded BETA.\nYOU NEED TO UPDATE THE .INI FILE AS SERVERS UPDATED",
+      "MessageBeforeOpen": "discord.gg/mGsrsQpqdv\n\nYOU NEED TO UPDATE THE .INI FILE AS SERVERS UPDATED",
       "ImagePre": "https://pender-prod.cdn.gearsofwar.net/pender-ctt-prod/images/MOTD_KeyArt.png",
       "chi": {
         "Title": "歡迎來到 Gears of War: Reloaded",
@@ -52,8 +52,8 @@
       }
     },
     {
-      "StartTime": "2025-06-09 00:00:00Z",
-      "EndTime": "2025-09-30 00:00:00Z",
+      "StartTime": "2025-06-30 01:00:00Z",
+      "EndTime": "2025-06-30 02:00:00Z",
       "Title": "WELCOME TO GEARS OF WAR: RELOADED",
       "MessageBeforeOpen": "The Multiplayer Beta is currently offline. Come back on June 20th at 12PM PT/(GMT-7) to play Versus on three additional maps.",
       "MessageAfterClose": "Thanks for playing in the Multiplayer Beta. The Beta is now closed. Gears of War: Reloaded launches on August 26, 2025. Head to GearsofWar.com for the latest.",
